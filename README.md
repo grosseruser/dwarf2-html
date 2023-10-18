@@ -1,5 +1,5 @@
 # dwarf2-html
-Web Frontend for the Dwarf 2 Telescope
+Web Frontend for the Dwarf II (aka as Dwarf 2 or Dwarf2) Telescope
 
 
 The Dwarf II telescope is a nice toy with strengths and weaknesses. A weakness is the standard password (12345678) for the WIFI and, much worse, ssh root access with a standard password (rockchip). I can only urge every owner to fix these problems.
