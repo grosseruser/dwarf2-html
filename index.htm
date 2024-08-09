@@ -51,7 +51,7 @@
 <script>
     //********************************************************* var
     const $ = function (x) {return document.getElementById(x);};
-    var thirdstream = "http://" + window.location.host + ":8092/thirdstream";
+    var thirdstream = "http://" + window.location.host + ":8092/secondstream"; // API has changed fom "thirdstream" to "secondstream"
     var mainstream = "http://" + window.location.host + ":8092/mainstream";
     var ws = new WebSocket("ws://" + window.location.host + ":9900/");
     var stm_a = document.getElementById('stream_a');
