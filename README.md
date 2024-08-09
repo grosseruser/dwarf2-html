@@ -9,3 +9,7 @@ Since I was currently on the root shell, I took advantage of the opportunity and
 I haven't yet thought about whether I want to turn this into a project, so I'm just sharing a primitive "proof of concept".
 
 I'm just a little dwarf...
+
+Update 9 Aug 24:
+The Dwarf API has been changed and I can't find any documentation at the moment. Unfortunately, I don't have the time to examine the network stream with Wireshark and find out the changes.
+The advantage is that you can now access the SD card using a web browser. You can access the contents of the SD card at http://DWARF-IP/sdcard/. If you put the index.html that is in the repository here on the SD card, you can access it at http://DWARF-IP/sdcard/index.htm. Great!
